@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ROS Robot Control GUI
 
 A web-based graphical user interface for controlling and monitoring a ROS-enabled robot. The frontend is built with Svelte and communicates with the ROS backend via the rosbridge WebSocket server.
@@ -53,3 +54,8 @@ npm install
 # Start the development server
 npm run dev
 ```
+=======
+# ros-robot-control-gui
+A multiplayer battle royale game in ROS1 using Turtlesim. Each player controls a turtle, competing with movement, attacks, and health management.
+
+>>>>>>> fcafe33e6b798f589beece1875d4378989fd6b34
