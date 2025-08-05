@@ -58,4 +58,3 @@ npm run dev
 # ros-robot-control-gui
 A multiplayer battle royale game in ROS1 using Turtlesim. Each player controls a turtle, competing with movement, attacks, and health management.
 
->>>>>>> fcafe33e6b798f589beece1875d4378989fd6b34
